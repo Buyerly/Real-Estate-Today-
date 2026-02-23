@@ -1,0 +1,2 @@
+npx cap add ios        # if you have a Mac with Xcode
+npx cap add android    # if you have Android Studio
